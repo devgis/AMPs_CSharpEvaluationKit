@@ -1,0 +1,10 @@
+C:\Users\liyaf\Downloads\AMPSCSharpEvaluationKit-5.0.1.0\CSharpEvaluationKit\CrankItUp\AMPSConsolePublisherSOW\bin\Debug\AMPSConsolePublisherSOW.exe.config
+C:\Users\liyaf\Downloads\AMPSCSharpEvaluationKit-5.0.1.0\CSharpEvaluationKit\CrankItUp\AMPSConsolePublisherSOW\bin\Debug\AMPSConsolePublisherSOW.exe
+C:\Users\liyaf\Downloads\AMPSCSharpEvaluationKit-5.0.1.0\CSharpEvaluationKit\CrankItUp\AMPSConsolePublisherSOW\bin\Debug\AMPSConsolePublisherSOW.pdb
+C:\Users\liyaf\Downloads\AMPSCSharpEvaluationKit-5.0.1.0\CSharpEvaluationKit\CrankItUp\AMPSConsolePublisherSOW\bin\Debug\AMPS.Client.dll
+C:\Users\liyaf\Downloads\AMPSCSharpEvaluationKit-5.0.1.0\CSharpEvaluationKit\CrankItUp\AMPSConsolePublisherSOW\bin\Debug\AMPS.Client.pdb
+C:\Users\liyaf\Downloads\AMPSCSharpEvaluationKit-5.0.1.0\CSharpEvaluationKit\CrankItUp\AMPSConsolePublisherSOW\bin\Debug\AMPS.Client.xml
+C:\Users\liyaf\Downloads\AMPSCSharpEvaluationKit-5.0.1.0\CSharpEvaluationKit\CrankItUp\AMPSConsolePublisherSOW\obj\Debug\03-AMPSSOWConsolePublisher.csproj.CoreCompileInputs.cache
+C:\Users\liyaf\Downloads\AMPSCSharpEvaluationKit-5.0.1.0\CSharpEvaluationKit\CrankItUp\AMPSConsolePublisherSOW\obj\Debug\03-AMPSSOWConsolePublisher.csproj.CopyComplete
+C:\Users\liyaf\Downloads\AMPSCSharpEvaluationKit-5.0.1.0\CSharpEvaluationKit\CrankItUp\AMPSConsolePublisherSOW\obj\Debug\AMPSConsolePublisherSOW.exe
+C:\Users\liyaf\Downloads\AMPSCSharpEvaluationKit-5.0.1.0\CSharpEvaluationKit\CrankItUp\AMPSConsolePublisherSOW\obj\Debug\AMPSConsolePublisherSOW.pdb
